@@ -20,4 +20,4 @@
    [[Informe Preceptores en el Nivel Secundario - Región Noreste Argentino](https://docs.google.com/document/d/16ExBfgHNQiyoTUpStJ3Mm8vnQPmcN3nzw9H7uz8QFFY/edit?usp=sharing)]
    
    ### Se adjunta información sobre Sueldos Promedios Anuales de Preceptores en Argentina.
-   [[Tablas de Sueldos Promedios Preceptores en Argentina](https://docs.google.com/document/d/16ExBfgHNQiyoTUpStJ3Mm8vnQPmcN3nzw9H7uz8QFFY/edit?usp=sharing)]
+   [[Tablas de Sueldos Promedios Preceptores en Argentina](https://docs.google.com/spreadsheets/d/1jRZxVmw57xHOOBF7H_OkHU3qjKTlPRg7iVbWFfU-Tv8/edit?usp=sharing)]
